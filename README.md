@@ -1,4 +1,4 @@
-# lottery_app
+# Counter App
 
 A new Flutter project.
 
